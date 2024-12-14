@@ -1,0 +1,4 @@
+../Core/Src/sensor.c:145:6:photo_sensor_1	13
+../Core/Src/sensor.c:380:6:photo_sensor_2	12
+../Core/Src/sensor.c:578:6:ball_limit_sw_min	7
+../Core/Src/sensor.c:631:6:down_sw_max	6

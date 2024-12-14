@@ -1,0 +1,8 @@
+../Core/Src/step.c:49:6:shaft_step_motor	16	static
+../Core/Src/step.c:79:6:z_axis_step_motor	16	static
+../Core/Src/step.c:119:6:z_axis_UP	16	static
+../Core/Src/step.c:137:6:z_axis_DOWN	16	static
+../Core/Src/step.c:159:6:down_part_UP	16	static
+../Core/Src/step.c:178:6:down_part_DOWN	16	static
+../Core/Src/step.c:199:6:down_part_UP_accel	16	static
+../Core/Src/step.c:218:6:down_part_DOWN_accel	16	static
